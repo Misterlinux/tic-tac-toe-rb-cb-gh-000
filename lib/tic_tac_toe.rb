@@ -155,3 +155,5 @@ def winner(board)
     end
   end
 end
+
+#the draw? gets 2 arrays as error, if you have any idea that would be really usefull
